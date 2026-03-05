@@ -1,0 +1,4 @@
+Tampa, 23
+Orlando, 31
+Miami, 19
+Jacksonville, 45
